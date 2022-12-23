@@ -1,0 +1,126 @@
+.box1 {
+	display: flex;
+	background-color: white;
+	width: 1294px;
+}
+.row {
+	display: flex;
+    padding-left: 60px;
+    width: 889px;
+    padding-top: 20px;
+}
+.card-body {
+	background-color: lavender;
+}
+.breadcrumb {
+	padding-top: 30px;
+	padding-left: 25px;
+}
+.carousel-item {
+	height: 752px;
+}
+.navbar-brand {
+	color: rgb(179, 29, 29);
+}
+.me-2 {
+	color: rgb(179, 29, 29);
+}
+.btn-primary {
+	background-color: rgb(179, 29, 29);
+	border-color: rgb(179, 29, 29);
+}
+.down {
+    display: flex;
+    margin: auto;
+    background-color: white;
+    width: 1280px;
+    height: 400px;
+    padding-top: 66px;
+    padding-left: 119px;
+    padding-right: 99px;
+}
+.down1 {
+    background-color: white;
+    width: 400px;
+    margin: 0 18px;
+}
+.down1_1 {
+    width: 620px;
+}
+.card2_222 {
+    padding-top: 10px;
+}
+.card3_3 {
+    padding-left: 25px;
+}
+.text_down1_1 {
+    font-size: 24px;
+    font-family: 'Poppins';
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    color: rgb(179, 29, 29);
+}
+.text_down1_11 {
+   font-family: 'Work Sans';
+   font-size: 16px;
+   padding-top: 23px;
+   letter-spacing: 0.05em;
+   color: #4F4F4F;
+}
+.text_down1_111 {
+    font-size: 13px;
+    color: #4F4F4F;
+    padding-top: 18px;
+    padding-right: 30px;
+}
+.text_down1_22 {
+    font-size: 16px;
+    font-family: 'Work Sans';
+    letter-spacing: 0.05em;
+}
+.text_down1_222 {
+    font-size: 14px;
+    font-family: 'Work Sans';
+    letter-spacing: 0.05em;
+    padding-top: 16px;
+}
+.text_down1_33 {
+    font-size: 16px;
+    font-family: 'Work Sans';
+    letter-spacing: 0.05em;
+}
+.text_down1_333 {
+    font-size: 14px;
+    font-family: 'Work Sans';
+    letter-spacing: 0.05em;
+    padding-top: 16px;
+}
+.text_down1_44 {
+    padding-bottom: 8px;
+    font-family: 'Work Sans';
+    font-size: 16px;
+    letter-spacing: 0.05em;
+}
+.down1_4 {
+    width: 540px;
+}
+.text_down1_444 {
+}
+.text_down1_4444 {
+    font-family: 'Raleway';
+    font-size: 8px;
+    color: white;
+    background-color: rgb(179, 29, 29);
+    width: 57px
+    padding-top: 30px;
+    padding-bottom: 6px;
+    padding-left: 17px;
+    width: 61px;
+    padding-top: 7px;
+}
+.box9 {
+	padding-top: 20px;
+    padding-right: 40px;
+	width: 900px;
+	height: 400px;
+}
